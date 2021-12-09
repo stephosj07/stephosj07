@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Stephanie Julien</h1>
-<h3 align="center">A passionate fullstack developer from France</h3>
+<h1 align="center">Hi 👋, I'm Stephanie</h1>
+<h3 align="center">A passionate fullstack developer from France, living in Montreal</h3>
 
 - 🔭 I’m currently working on [Bloom](https://www.bloom-plants.me/)
 
 - 🌱 I’m currently learning **React, Typescript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/stephosj07](https://github.com/stephosj07)
+- 👨‍💻 All of my projects are available at [https://troopl.com/stephaniejulien07](https://troopl.com/stephaniejulien07)
 
 - 📫 How to reach me **stephanie.julien7@gmail.com**
 
