@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
-<h3 align="center">A passionate fullstack developer from France, living in Montreal</h3>
+<h3 align="center">A passionate fullstack developer from France, living in Avignon</h3>
 
-- 🔭 I’m currently working on [Bloom](https://www.bloom-plants.me/)
+- 🔭 I’m currently starting a new project with Astro and React.
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **Typescript, Astro, Next.js**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/stephaniejulien07](https://troopl.com/stephaniejulien07)
 
