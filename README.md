@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
-<h3 align="center">A passionate fullstack developer from France, living in Avignon</h3>
+<h3 align="center">A passionate fullstack developer with a frontend leaning</h3>
 
-- 🔭 I’m currently starting a new project with Astro and React.
+- 🔭 I’m currently starting working on a project with Next.js, TypeScript and TailwindCSS.
 
-- 🌱 I’m currently learning **Typescript, Astro, Next.js**
+- 🌱 I’m currently learning **Typescript, Next.js, TailwindCSS**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/stephaniejulien07](https://troopl.com/stephaniejulien07)
 
