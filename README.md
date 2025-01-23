@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
 <h3 align="center">A passionate fullstack developer with a frontend leaning</h3>
 
-- 🔭 I’m currently starting working on a project with Next.js, TypeScript and TailwindCSS.
+- 🔭 I’m currently working on a project with Next.js, TypeScript and TailwindCSS.
 
 - 🌱 I’m currently learning **Typescript, Next.js, TailwindCSS**
 
